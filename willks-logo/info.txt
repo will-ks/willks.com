@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LibreBaskerville-Regular
+font link: https://fonts.google.com/specimen/Libre+Baskerville
+font author: Impallari Type
+font author site: https://twitter.com/pabloimpallari
+
+
+icon designer: Path Lord
+icon designer link: /pathlord
+        
+{"bg":"transparent","icon-gradient-0":"#0D7CE9","icon-gradient-1":"#15CFF1","font":"#000000","slogan":"#141414"}
+      
